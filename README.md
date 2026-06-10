@@ -114,4 +114,4 @@ We focus on clean design, reliable development, user experience, and launch-read
 
 ---
 
-© 2025 Softrare Labs. Project showcased for portfolio and case study purposes.
+© 2026 Softrare Labs. Project showcased for portfolio and case study purposes.
